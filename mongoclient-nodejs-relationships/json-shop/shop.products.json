@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "65ca423d4b73a9f2d51111a1"
+  },
+  "name": "mobile"
+},
+{
+  "_id": {
+    "$oid": "65ca423d4b73a9f2d51111a2"
+  },
+  "name": "lamp"
+},
+{
+  "_id": {
+    "$oid": "65ca423d4b73a9f2d51111a3"
+  },
+  "name": "pencils"
+}]

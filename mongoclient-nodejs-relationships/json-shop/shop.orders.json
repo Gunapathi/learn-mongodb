@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "65ca43ba4b73a9f2d51111a4"
+  },
+  "amount": 100,
+  "customer_id": {
+    "$oid": "65ca210e4b73a9f2d5111198"
+  },
+  "product_ids": [
+    {
+      "$oid": "65ca423d4b73a9f2d51111a1"
+    },
+    {
+      "$oid": "65ca423d4b73a9f2d51111a2"
+    },
+    {
+      "$oid": "65ca423d4b73a9f2d51111a3"
+    }
+  ]
+}]
